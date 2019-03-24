@@ -1,0 +1,31 @@
+user,age,language,dialect,proficiency level,language to learn,dialect to learn,proficiency level so far,country,occupation,interests
+user1,39,Italian,standard,intermediate,French,Parisian,novice,South Korea,freelancer,swimming
+user2,50,Malay,Bangka,fluent,German,The Bavarian Dialect,intermediate,France,unemployed,tennis
+user3,47,German,The Berlin Dialect,native,English,British,fluent,Germany,social worker,cooking
+user4,42,Malay,Bangka,native,French,standard,fluent,Malaysia,teacher,golfing
+user5,41,Chinese,Wu,intermediate,German,The Bavarian Dialect,intermediate,Italy,unemployed,tennis
+user6,22,Italian,Sicilian,fluent,English,standard,intermediate,US,engineer,science fiction
+user7,35,French,Marseillais,intermediate,Korean,Jeju,novice,Spain,freelancer,granola
+user8,29,German,Low German,novice,Korean,Chungcheong,novice,China,volunteer,classical
+user9,40,Spanish,Llanito,native,English,standard,novice,Spain,teacher,typography
+user10,32,French,Meriodonal,novice,Korean,Gangwon,novice,Germany,writer,novel
+user11,34,French,Meriodonal,native,Korean,Jeolla,fluent,Japan,banker,boxing
+user12,44,Malay,Banjar,native,Italian,standard,native,France,artist,science fiction
+user13,18,Japanese,Hiroshima Ben,novice,German,The Berlin Dialect,novice,Germany,artist,science fiction
+user14,42,Malay,Bangka,intermediate,Spanish,standard,novice,Japan,teacher,baking
+user15,25,French,Parisian,intermediate,Chinese,Wu,novice,Malaysia,teacher,kpop
+user16,46,French,Parisian,novice,Italian,Venetian,novice,China,artist,cooking
+user17,34,Japanese,Hakata Ben,native,English,British,intermediate,China,social worker,gymnastics
+user18,25,English,Canadian,native,German,Low German,fluent,US,social worker,tennis
+user19,20,Malay,Banjar,fluent,Spanish,Castilian,novice,China,teacher,volleyball
+user20,33,Italian,standard,native,Malay,Bangkok,intermediate,Italy,unemployed,digital arts
+user21,21,English,Australian,native,Italian,Neapolitan,intermediate,Germany,volunteer,Asian Cuisine
+user22,39,Spanish,Murcian,native,Italian,Sicilian,fluent,Spain,engineer,literature
+user23,37,English,Australian,native,Spanish,Castilian,intermediate,US,freelancer,salad
+user24,37,Spanish,Canarian,novice,Malay,Banjar,novice,Germany,teacher,reading
+user25,47,Italian,Venetian,fluent,French,Meriodonal,intermediate,Germany,social worker,hiking
+user26,36,Japanese,Hokkaido Ben,native,French,standard,intermediate,Malaysia,artist,BBQ
+user27,27,Korean,Jeju,native,French,Northern France,fluent,Japan,unemployed,reading
+user28,38,Malay,Pahang,novice,Japanese,Kyoto Ben,novice,South Korea,social worker,r&b
+user29,38,Chinese,Mandarin,fluent,Malay,Pontianak,novice,Malaysia,artist,r&b
+user30,42,Japanese,Nagoya Ben,fluent,Korean,Gangwon,novice,Italy,engineer,jazz
